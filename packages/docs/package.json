@@ -29,7 +29,7 @@
     "vite": "^4.3.9"
   },
   "dependencies": {
-    "@gcarpaneze-ui/react": "^2.0.1",
+    "@gcarpaneze-ui/react": "^2.1.0",
     "@gcarpaneze-ui/eslint-config": "*",
     "@gcarpaneze-ui/tokens": "*",
     "@gcarpaneze-ui/ts-config": "*",
