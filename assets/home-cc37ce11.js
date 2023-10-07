@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-6550a675.js";import{M as r}from"./index-404e566f.js";import{u as i}from"./index-45b0f926.js";import"./index-439caa47.js";import"./_commonjsHelpers-042e6b4d.js";import"./iframe-aca87b20.js";import"../sb-preview/runtime.js";import"./chunk-4NMOSTKD-052c8761.js";import"./index-d475d2ea.js";import"./index-d37d4223.js";import"./extends-98964cd2.js";import"./index-f8236e9a.js";import"./index-356e4a49.js";function e(n){const o=Object.assign({h1:"h1",p:"p"},i(),n.components);return t.jsxs(t.Fragment,{children:[t.jsx(r,{title:"Home"}),`
+`,t.jsx(o.h1,{id:"ignite-ui",children:"Ignite UI"}),`
+`,t.jsx(o.p,{children:"Design System do Ignite"})]})}function M(n={}){const{wrapper:o}=Object.assign({},i(),n.components);return o?t.jsx(o,Object.assign({},n,{children:t.jsx(e,n)})):e(n)}export{M as default};
+//# sourceMappingURL=home-cc37ce11.js.map

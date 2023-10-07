@@ -1,0 +1,4 @@
+import{j as t}from"./jsx-runtime-6550a675.js";import{M as s}from"./index-404e566f.js";import{r as e}from"./index-e0b082a3.js";import{T as m}from"./index-a158c270.js";import{u as i}from"./index-45b0f926.js";import"./index-439caa47.js";import"./_commonjsHelpers-042e6b4d.js";import"./iframe-aca87b20.js";import"../sb-preview/runtime.js";import"./chunk-4NMOSTKD-052c8761.js";import"./index-d475d2ea.js";import"./index-d37d4223.js";import"./extends-98964cd2.js";import"./index-f8236e9a.js";import"./index-356e4a49.js";function n(o){const r=Object.assign({h1:"h1"},i(),o.components);return t.jsxs(t.Fragment,{children:[t.jsx(s,{title:"Tokens/Border Radius"}),`
+`,t.jsx(r.h1,{id:"border--radius",children:"Border  Radius"}),`
+`,t.jsx(m,{tokens:e})]})}function D(o={}){const{wrapper:r}=Object.assign({},i(),o.components);return r?t.jsx(r,Object.assign({},o,{children:t.jsx(n,o)})):n(o)}export{D as default};
+//# sourceMappingURL=radii-bf881245.js.map
