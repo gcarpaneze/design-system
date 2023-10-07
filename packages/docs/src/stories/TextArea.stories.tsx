@@ -1,5 +1,5 @@
 import { StoryObj, Meta } from '@storybook/react'
-import { Box, Text, TextArea, TextAreaInterface } from '@ignite-ui/react'
+import { Box, Text, TextArea, TextAreaInterface } from '@gcarpaneze-ui/react'
 
 export default {
   title: 'Form/TextArea',

@@ -6,8 +6,8 @@
   "types": "./dist/index.d.ts",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/ts-config": "*",
-    "@ignite-ui/eslint-config": "*",
+    "@gcarpaneze-ui/ts-config": "*",
+    "@gcarpaneze-ui/eslint-config": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.1.3"
   },

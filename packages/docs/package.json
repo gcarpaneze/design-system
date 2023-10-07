@@ -29,10 +29,10 @@
     "vite": "^4.3.9"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@gcarpaneze-ui/react": "^2.0.1",
+    "@gcarpaneze-ui/eslint-config": "*",
+    "@gcarpaneze-ui/tokens": "*",
+    "@gcarpaneze-ui/ts-config": "*",
     "@phosphor-icons/react": "^2.0.10",
     "@storybook/addon-a11y": "^7.0.22",
     "polished": "^4.2.2",

@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@ignite-ui/tokens'
+} from '@gcarpaneze-ui/tokens'
 
 export const {
   styled,
